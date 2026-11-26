@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.ibb.co/5gfkr46p/Picsart-26-11-26-00-48-24-891.jpg" width="100%">
+</div>
 
 <!--
 **oyashwee/oyashwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
